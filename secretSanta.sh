@@ -69,7 +69,7 @@ do
   giver=${givers[$count]}
   receiver=${receivers[$count]}
   sed -e "s/\${santa}/${NAMES[$giver]}/" -e "s/\${receiver}/${NAMES[$receiver]}/" -e"s/\${price}/50/" body.txt
-  count+=1
+  count=$(($count + 1))
 done
 }
 
