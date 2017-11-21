@@ -1,0 +1,11 @@
+Hi, ${santa}
+
+You are the secret Santa of ${receiver}! We are setting a max price of $${price}.
+You're going to have to get ${receiver} something special. Feel free to be creative!
+Get them something fun that they wouldn't normally think to get them self or something
+you know they'd love to have but would never spend the money on them self.
+
+Christmas is just around the corner!
+Get to it!
+
+-Your Secret Santa Helper
